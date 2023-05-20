@@ -1,2 +1,2 @@
 # My-Card
-Designed my simple name card using Flask, HTML and CSS.
+Designed a simple name card using Flask, HTML and CSS.
